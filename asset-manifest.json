@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-spell-check/static/css/main.073c9b0a.css",
+    "main.js": "/react-spell-check/static/js/main.3949412c.js",
+    "static/js/787.9dc6f98e.chunk.js": "/react-spell-check/static/js/787.9dc6f98e.chunk.js",
+    "static/media/logo.svg": "/react-spell-check/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-spell-check/index.html",
+    "main.073c9b0a.css.map": "/react-spell-check/static/css/main.073c9b0a.css.map",
+    "main.3949412c.js.map": "/react-spell-check/static/js/main.3949412c.js.map",
+    "787.9dc6f98e.chunk.js.map": "/react-spell-check/static/js/787.9dc6f98e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3949412c.js"
+  ]
+}
